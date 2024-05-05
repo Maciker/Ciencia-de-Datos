@@ -1,6 +1,10 @@
 # Ciencia-de-Datos
 Ciencia de Datos: Proyectos y formaciones
 
+## Generative AI
+
+#### [Crew AI Tutorial](https://github.com/Maciker/crewAI_tutorial)
+
 ## Deep Learning and Machine learning
 
 #### [Deep Learning for Coders with fastai & PyTorch](https://github.com/Maciker/fastai)
